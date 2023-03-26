@@ -1,0 +1,5 @@
+1.Passport using for Authontication.
+2.front end React js
+3.Laravel REST API.
+
+দুরুত কাজ করার জন্য একটি Controller ব্যবহার করেছি ।
